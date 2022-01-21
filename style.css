@@ -1,0 +1,21 @@
+.bg-danger-color{
+   background-color:#FEEAE9;
+}
+.btn-color{
+   background-color: #FF136F;
+   border: 1px solid #000;
+   border-radius: 5px;
+
+}
+.price{
+   color: #FF136F;
+}
+.catagoris img{
+   width: 100px;
+}
+.shoes a{
+   text-decoration: none;
+}
+.bags a{
+   text-decoration: none;
+}
